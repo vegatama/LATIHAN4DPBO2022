@@ -11,7 +11,7 @@ Desain tersebut digunakan karena secara hierarki Ship dan Airplane adalah sebuah
 
 jenis atribut yang digunakan di dalam program tersebut adalah string dan int, secara rinci:
 
-maxPassengers, age = int 
+maxPassengers, age(dalam tahun) = int 
 
 type, Name, fuelType, countryOfManufacture, vehicleType, companyName, position = string
 
