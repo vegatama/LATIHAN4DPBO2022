@@ -28,7 +28,7 @@ Gender = string yang dibagi menjadi M(male) dan F(female)
 activeUntil = string dengan format DD/MM/YYYY
 
 
-Hasil Eksekusi
+## Hasil Eksekusi
 
 ![Alt text](https://github.com/vegatama/LATIHAN4DPBO2022/blob/main/Hasil%20Screenshot/vehicle.png?raw=true "Title")
 ![Alt text](https://github.com/vegatama/LATIHAN4DPBO2022/blob/main/Hasil%20Screenshot/Airplane.png?raw=true "Title")
