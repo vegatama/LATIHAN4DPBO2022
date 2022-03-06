@@ -3,7 +3,7 @@ Latihan praktikum DPBO ke-4
 
 janji : Saya Vegatama Firdiady mengerjakan Latihan 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Desain Program
+## Desain Program
 
 ![Alt text](https://github.com/vegatama/LATIHAN4DPBO2022/blob/main/Hasil%20Screenshot/prak%204.png?raw=true "Title")
 
@@ -27,6 +27,8 @@ Gender = string yang dibagi menjadi M(male) dan F(female)
 
 activeUntil = string dengan format DD/MM/YYYY
 
+## detail tambahan
+method sleep dan move digunakan di iterasi ke-3
 
 ## Hasil Eksekusi
 
