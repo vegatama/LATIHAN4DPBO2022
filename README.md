@@ -9,7 +9,7 @@ janji : Saya Vegatama Firdiady mengerjakan Latihan 4 dalam mata kuliah DPBO untu
 
 Desain tersebut digunakan karena secara hierarki Ship dan Airplane adalah sebuah Vehicle, Person Berdiri sendiri karena class lainnya berbeda secara objek, dan Driver inheritence dari Job karena secara objek Driver adalah sebuah Job.
 
-jenis atribut yang digunakan di dalam program tersebut adalah sting dan int, secara rinci:
+jenis atribut yang digunakan di dalam program tersebut adalah string dan int, secara rinci:
 
 maxPassengers, age = int 
 
